@@ -48,6 +48,13 @@ class RR_WP_Development_Plugins{
 				'slug'     => 'debug-bar',
 				'required' => false
 			),
+			
+			# Install Duplicate Post plugin - http://wordpress.org/plugins/duplicate-post/
+			array(
+				'name'     => 'Duplicate Post',
+				'slug'     => 'duplicate-post',
+				'required' => false
+			),
 
 		);
 
