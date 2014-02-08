@@ -5,6 +5,7 @@ Helper plugin that allows developers to install frequently used plugins easily. 
 
 Plugins Listed:
 * [Debug Bar](http://wordpress.org/plugins/debug-bar/)
+* [Duplicate Post](http://wordpress.org/plugins/duplicate-post/)
 * [Theme-Check](http://wordpress.org/plugins/theme-check/)
 
 Do you have a plugin that's worth adding? Fork and send me a pull request!
@@ -12,4 +13,4 @@ Do you have a plugin that's worth adding? Fork and send me a pull request!
 Changelog:
 ----------
 Version 0.1:
-Added [Theme-Check](http://wordpress.org/plugins/theme-check/) and [Debug Bar](http://wordpress.org/plugins/debug-bar/)
+Added [Theme-Check](http://wordpress.org/plugins/theme-check/), [Duplicate Post](http://wordpress.org/plugins/duplicate-post/) and [Debug Bar](http://wordpress.org/plugins/debug-bar/)
