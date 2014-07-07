@@ -56,6 +56,22 @@ class RR_WP_Development_Plugins{
 				'required' => false
 			),
 
+			# Install Wordpress-importer - http://wordpress.org/plugins/wordpress-importer/
+			array(
+				'name' 		=> 'Wordpress importer',
+				'slug' 		=> 'wordpress-importer',
+				'required' 	=> false
+			),
+
+			# Install What Template File Am i Viewing - http://wordpress.org/plugins/what-template-file-am-i-viewing/
+			array(
+				'name' 		=> 'What Template File Am I Viewing?',
+				'slug' 		=> 'what-template-file-am-i-viewing',
+				'required' 	=> false
+			),
+
+
+		
 		);
 
 		// Change this to your theme text domain, used for internationalising strings
