@@ -9,7 +9,7 @@ Plugins Listed:
 * [Theme-Check](http://wordpress.org/plugins/theme-check/)
 * [Wordpress Importer](http://wordpress.org/plugins/wordpress-importer/)
 * [What Template File Am i Viewing?] (http://wordpress.org/plugins/what-template-file-am-i-viewing/)
-*[Advance Custom Fields] (http://wordpress.org/plugins/advanced-custom-fields/)
+* [Advance Custom Fields] (http://wordpress.org/plugins/advanced-custom-fields/)
 
 Do you have a plugin that's worth adding? Fork and send me a pull request!
 
