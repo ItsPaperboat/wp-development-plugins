@@ -5,7 +5,7 @@
   Plugin URI: https://github.com/rrikesh/wp-development-plugins
   Description: Helper plugin that allows developers to install frequently used plugins easily.
   Author: Rikesh Ramlochund
-  Version: 0.1
+  Version: 0.2
   Author URI: http://rrikesh.com/
 */
 
@@ -70,7 +70,7 @@ class RR_WP_Development_Plugins{
 				'required' 	=> false
 			),
 			
-			# Install Advance Custom Fields - http://wordpress.org/plugins/advanced-custom-fields/
+			# Install Advanced Custom Fields - http://wordpress.org/plugins/advanced-custom-fields/
 			array(
 				'name' =>'Advanced Custom Fields',
 				'slug' => 'advanced-custom-fields',
