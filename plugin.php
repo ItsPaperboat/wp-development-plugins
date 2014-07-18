@@ -69,6 +69,13 @@ class RR_WP_Development_Plugins{
 				'slug' 		=> 'what-template-file-am-i-viewing',
 				'required' 	=> false
 			),
+			
+			# Install Advance Custom Fields - http://wordpress.org/plugins/advanced-custom-fields/
+			array(
+				'name' =>'Advanced Custom Fields',
+				'slug' => 'advanced-custom-fields',
+				'required' => false
+				),
 
 
 		
