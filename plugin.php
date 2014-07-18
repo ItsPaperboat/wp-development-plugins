@@ -2,11 +2,11 @@
 
 /*
   Plugin Name: WP Development Plugins
-  Plugin URI: https://github.com/rrikesh/wp-development-plugins
+  Plugin URI: https://github.com/ItsPaperboat/wp-development-plugins
   Description: Helper plugin that allows developers to install frequently used plugins easily.
   Author: Rikesh Ramlochund
   Version: 0.2
-  Author URI: http://rrikesh.com/
+  Author URI: http://paperboat.io
 */
 
 /**
