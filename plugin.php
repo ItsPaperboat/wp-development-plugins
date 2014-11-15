@@ -17,7 +17,7 @@ function_exists( 'add_filter' ) || exit;
 /**
  * Include the TGM_Plugin_Activation class.
  */
-require_once dirname( __FILE__ ) . '/class-tgm-plugin-activation.php';
+require_once __DIR__ . '/class-tgm-plugin-activation.php';
 
 class RR_WP_Development_Plugins{
 
