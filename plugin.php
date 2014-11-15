@@ -23,6 +23,13 @@ class RR_WP_Development_Plugins{
 
 	public function __construct(){
 		add_action( 'tgmpa_register', array( &$this, 'my_theme_register_required_plugins' ) );
+		add_filter( 'plugin_action_links_' . plugin_basename(__FILE__), array( &$this, 'show_options_link' ) );
+
+	}
+
+	public function show_options_link( $links ){
+   		$links[] = '<a href="'. get_admin_url(null, 'themes.php?page=install-required-plugins') .'">List</a>';
+   		return $links;
 	}
 
 	/**
